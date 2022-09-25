@@ -1,0 +1,2 @@
+// this command line to execute sass
+sass --watch public/sass:public/css
