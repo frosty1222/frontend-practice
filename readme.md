@@ -9,7 +9,7 @@ Link đề bài: https://www.figma.com/file/OqoskP3WsOjZYsIaXsqdm0/ReviewNha
 npm run prod
 ```
 ## Test
-Truy cập page tại đây:  https://frosty1222.github.io/frontend-practice/
+Truy cập page tại đây: https://frosty1222.github.io/frontend-practice/
 
 Được viết bằng :
     Html
