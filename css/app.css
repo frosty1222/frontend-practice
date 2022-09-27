@@ -1379,9 +1379,6 @@
   .body-content .heading legend {
     font-size: 22px;
   }
-  .body-content .heading legend img {
-    left: 28%;
-  }
   .body-content .news-section {
     width: 100%;
   }
@@ -1855,4 +1852,5 @@ table {
 
 a {
   text-decoration: none;
+  color: #272727;
 }
